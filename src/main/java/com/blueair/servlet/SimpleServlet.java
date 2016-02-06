@@ -1,4 +1,4 @@
-package wasdev.sample.servlet;
+package com.blueair.servlet;
 
 import java.io.IOException;
 
